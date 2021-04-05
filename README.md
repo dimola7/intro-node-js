@@ -45,7 +45,7 @@ This exercise will have you convert some JavaScript written for the browser, so 
   * new - `node exercises/cli/index.js new`
   * list - `node exercises/cli/index.js list`
 
-You'll be creating a CLI program that saves and retrieves contacts from and address book. The program is partially there, however, you must install some remote modules, and use the fileSystem to get some things to work.
+You'll be creating a CLI program that saves and retrieves contacts from an address book. The program is partially there, however, you must install some remote modules, and use the fileSystem to get some things to work.
 
 - [ ] install all remote modules (hint: use npm)
 - [ ] check the README on how to run your CLI

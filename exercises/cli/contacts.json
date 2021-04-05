@@ -3,5 +3,30 @@
     "firstName": "adfsadf",
     "lastName": "asfdasdf",
     "phoneNumber": "asfdsf"
+  },
+  "lionel messi": {
+    "firstName": "lionel",
+    "lastName": "messi",
+    "phoneNumber": "9876543"
+  },
+  "cristiano ronaldo": {
+    "firstName": "cristiano",
+    "lastName": "ronaldo",
+    "phoneNumber": "4245663"
+  },
+  "neymar junior": {
+    "firstName": "neymar",
+    "lastName": "junior",
+    "phoneNumber": "746289"
+  },
+  "eden  hazard": {
+    "firstName": "eden ",
+    "lastName": "hazard",
+    "phoneNumber": "7892462"
+  },
+  "jan oblak": {
+    "firstName": "jan",
+    "lastName": "oblak",
+    "phoneNumber": "542378"
   }
 }
